@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID":"GHB4S4NC6U.com.network.testKinto.Spot",
+        "paths":[ "*" ]
+      },
+      {
+        "appID":"GHB4S4NC6U.com.kinto.myroute.fun",
+        "paths":[ "*" ]
+      }
+    ]
+  }
+}
